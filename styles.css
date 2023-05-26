@@ -7,34 +7,11 @@ h2 {
     text-align: center;
 }
 
-.form-signin {
-    margin: auto;
-    max-width: 300px;
-}
 
 .jumbo{
     background-color: #fefefe90;
 }
 
-.top {
-    margin-bottom: -1px;
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
-}
-
-.middle {
-    border-radius: 0;
-    margin-bottom: -1px;
-
-}
-
-.bottom {
-    
-    margin-bottom: 10px;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-
-}
 
 body {
     margin: auto;
